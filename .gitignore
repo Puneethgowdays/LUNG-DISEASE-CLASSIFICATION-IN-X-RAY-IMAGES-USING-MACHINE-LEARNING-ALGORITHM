@@ -1,0 +1,10 @@
+# Ignore the large dataset (Recommended)
+Train/
+test/
+
+# Ignore user data
+user_data/
+
+# Python cache
+__pycache__/
+*.pyc
